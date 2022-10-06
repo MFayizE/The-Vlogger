@@ -1,0 +1,36 @@
+ #header{
+    background: rgb(241,250,253);
+background: linear-gradient(71deg, rgba(241,250,253,1) 0%, rgba(214,244,247,1) 15%, rgba(248,247,229,1) 37%, rgba(255,240,210,1) 59%, rgba(236,250,248,1) 79%, rgba(255,240,210,1) 100%);
+}
+
+
+#s2h2{
+    font-family: 'Bebas Neue', cursive;
+    color: #FF5B25;
+}
+
+#s2p{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+#caro{
+    background-image: url(./Images/gorilla-uganda-bg-image.jpg);
+    background-size: cover;
+}
+
+#dish2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+#video{
+    background: black;
+}
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+#sub{
+    background: #EFC026;
+}
